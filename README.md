@@ -31,7 +31,6 @@ Estoy dando mis primeros pasos en el fascinante mundo del **desarrollo multiplat
   <img width="48%" src="./Img/1.jpg" />
   <img width="48%" src="./Img/3.png" />
 </p>
-
 ---
 
 ### 🤝 Conectemos
@@ -44,5 +43,4 @@ Estoy dando mis primeros pasos en el fascinante mundo del **desarrollo multiplat
 ---
 <p align="center">
   <i>"Escribe una vez, ejecuta en todos lados."</i>
-
 </p>
