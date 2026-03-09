@@ -28,8 +28,8 @@ Estoy dando mis primeros pasos en el fascinante mundo del **desarrollo multiplat
 ### 📊 Actividad de GitHub
 
 <p align="center">
-  <Img width="48%" src="./Img/1.jpg" />
-  <Img width="48%" src="./Img/3.png" />
+  <img width="48%" src="./Img/1.jpg" />
+  <img width="48%" src="./Img/3.png" />
 </p>
 
 ---
@@ -44,4 +44,5 @@ Estoy dando mis primeros pasos en el fascinante mundo del **desarrollo multiplat
 ---
 <p align="center">
   <i>"Escribe una vez, ejecuta en todos lados."</i>
+
 </p>
