@@ -1,48 +1,64 @@
-# 🚀 Hola, soy Izan Valverde | Multi-platform Developer
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario-github&label=Perfil%20Vistas&color=0e75b6&style=flat" alt="vistas" />
-</p>
+# Hola, soy Izan Valverde 👋
+### Desarrollador de Aplicaciones Multiplataforma (DAM) & Desarrollador Web
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 
-### 💫 Sobre mí
-Estoy dando mis primeros pasos en el fascinante mundo del **desarrollo multiplataforma**. Mi objetivo es crear experiencias fluidas y potentes que funcionen en cualquier dispositivo desde un solo código base.
-
-* 🌱 Actualmente aprendiendo: **Flutter / React Native / .NET MAUI** (Elige tu preferido).
-* 🎯 Meta para 2026: Publicar mi primera app en Play Store y App Store.
-* ⚡ Dato curioso: Me encanta cómo el código puede cobrar vida en un teléfono y una PC al mismo tiempo.
+</div>
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 👨‍💻 Sobre mí
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+Estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Murcia, España, enfocado en la creación de software funcional, limpio y escalable. Combino el desarrollo móvil nativo e híbrido con soluciones web modernas y gestión de bases de datos.
 
----
-
-### 📊 Actividad de GitHub
-
-<p align="center">
-  <img width="48%" src="1.jpg" />
-  <img width="48%" src="3.png" />
-</p>
+* 📱 **Desarrollo Móvil:** Creación de aplicaciones en **Kotlin** (Android Studio) y **Flutter/Dart** integradas con **Firebase**.
+* 🌐 **Desarrollo Web:** Diseño, desarrollo y despliegue continuo de sitios web corporativos y dinámicos usando **HTML/CSS/JS**, **Astro**, **GitHub** y **Netlify**.
+* ⚙️ **Backend y Sistemas:** Lógica de negocio en **Java** y **Python**, administración de bases de datos **MySQL/MariaDB** y entornos **Ubuntu Server**.
+* 🚀 **Actualmente trabajando en:** Mi proyecto de fin de grado (una app educativa gamificada con modo multijugador) y en **Agribee Alert**.
 
 ---
 
-### 🤝 Conectemos
-¿Tienes algún consejo para un principiante o quieres colaborar en un proyecto?
+### 🛠️ Stack Tecnológico
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+**Lenguajes y Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Bases de Datos, Cloud y Herramientas**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
-<p align="center">
-  <i>"Escribe una vez, ejecuta en todos lados."</i>
 
-</p>
+### 📂 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías | Estado / Enlace |
+| :--- | :--- | :--- | :--- |
+| **🎵 Iván Marín García** | Web profesional bilingüe (ES/EN) para músico y pedagogo con despliegue continuo. | `HTML` `CSS` `JS` `Netlify` | [Ver web](https://ivanmaringarcia.com) |
+| **🤖 Portal de Noticias IA** | Web de actualidad sobre agentes autónomos y modelos locales con flujos de publicación diaria automatizada. | `Astro` `GitHub` `Netlify` | En desarrollo |
+| **🐝 Agribee Alert** | App móvil con notificaciones geolocalizadas de tratamientos fitosanitarios según parcelas registradas. | `Flutter` `Dart` `Firebase` | En desarrollo |
+| **🍯 Web Oficial A.M.A.P.** | Sitio web institucional para la Agrupación Murciana de Apicultores Profesionales con gestión de eventos y formularios. | `HTML` `CSS` `JS` `Netlify` | Proyecto privado |
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DragonShark107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonShark107&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
