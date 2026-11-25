@@ -17,7 +17,7 @@ Estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)
 * 📱 **Desarrollo Móvil:** Creación de aplicaciones en **Kotlin** (Android Studio) y **Flutter/Dart** integradas con **Firebase**.
 * 🌐 **Desarrollo Web:** Diseño, desarrollo y despliegue continuo de sitios web corporativos y dinámicos usando **HTML/CSS/JS**, **Astro**, **GitHub** y **Netlify**.
 * ⚙️ **Backend y Sistemas:** Lógica de negocio en **Java** y **Python**, administración de bases de datos **MySQL/MariaDB** y entornos **Ubuntu Server**.
-* 🚀 **Actualmente trabajando en:** Mi proyecto de fin de grado (una app educativa gamificada con modo multijugador) y en **Agribee Alert**.
+* 🚀 **Actualmente trabajando en:** Mi proyecto de fin de grado (una aplicación educativa gamificada con modo multijugador en tiempo real).
 
 ---
 
@@ -50,8 +50,7 @@ Estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)
 | Proyecto | Descripción | Tecnologías | Estado / Enlace |
 | :--- | :--- | :--- | :--- |
 | **🎵 Iván Marín García** | Web profesional bilingüe (ES/EN) para músico y pedagogo con despliegue continuo. | `HTML` `CSS` `JS` `Netlify` | [Ver web](https://ivanmaringarcia.com) |
-| **🤖 Portal de Noticias IA** | Web de actualidad sobre agentes autónomos y modelos locales con flujos de publicación diaria automatizada. | `Astro` `GitHub` `Netlify` | En desarrollo |
-| **🐝 Agribee Alert** | App móvil con notificaciones geolocalizadas de tratamientos fitosanitarios según parcelas registradas. | `Flutter` `Dart` `Firebase` | En desarrollo |
+| **🤖 LabAgentes** | Portal de actualidad sobre agentes autónomos e IA local con flujo de publicación diaria automatizada. | `Astro` `Python` `Netlify` | [Ver web](https://labagentes.com) |
 | **🍯 Web Oficial A.M.A.P.** | Sitio web institucional para la Agrupación Murciana de Apicultores Profesionales con gestión de eventos y formularios. | `HTML` `CSS` `JS` `Netlify` | Proyecto privado |
 
 ---
